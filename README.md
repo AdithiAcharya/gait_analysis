@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gait Analysis System
 
 A comprehensive markerless gait analysis system using computer vision and machine learning techniques for analyzing human walking patterns.
@@ -264,3 +265,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: Legacy scripts from the initial development phase have been moved to the `archive/` directory. See [archive/README.md](archive/README.md) for details about the archived files and migration notes.
+=======
+# gait_analysis
+>>>>>>> 76c3ff19371fc0e4f675b577a9ebe0131e56a16a
